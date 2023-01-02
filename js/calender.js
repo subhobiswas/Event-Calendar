@@ -1,5 +1,5 @@
 (function ($) {
-    var event_url='http://localhost/calender/calender2'; // change this to your event url
+    var event_url=''; // change this to your event url
     $.fn.extend({
         monthly: function (customOptions) {
 

@@ -1,5 +1,6 @@
 # Event-Calendar
-** simple JQuery and PHP bassed event calender 
+simple JQuery and PHP bassed event calender 
+Just pass a url For Ajax In this call Sett your event response in jon 
 
 
 ![image](https://user-images.githubusercontent.com/51922492/210257618-7afd99c1-9337-4332-aab3-8a0ec5d66cd3.png)

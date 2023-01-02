@@ -1,4 +1,5 @@
 (function ($) {
+    var event_url='http://localhost/calender/calender2'; // change this to your event url
     $.fn.extend({
         monthly: function (customOptions) {
 
@@ -499,7 +500,6 @@
         }
     });
 
-    var base_url='http://localhost/calender/calender2';
 
     // inizilize date obj
     function event2() {
@@ -527,7 +527,7 @@
             var dd = '0' + lastDay.getDay();
         }
         lastDay = yyyy + '-' + mm + '-' + dd;
-        var url = base_url+'/event.php?startdate=' + firstDay + '&enddate=' + lastDay;
+        var url = event_url+'?startdate=' + firstDay + '&enddate=' + lastDay;
         return url;
 
     }

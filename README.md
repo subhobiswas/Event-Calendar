@@ -2,7 +2,7 @@
 ** simple JQuery and PHP bassed event calender 
 
 
-![image](https://user-images.githubusercontent.com/51922492/210257534-2c3a5038-6386-4c96-b39e-c015c0ea3341.png)
+![image](https://user-images.githubusercontent.com/51922492/210257618-7afd99c1-9337-4332-aab3-8a0ec5d66cd3.png)
 
 ## Installation 
 

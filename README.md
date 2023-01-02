@@ -1,5 +1,9 @@
 # Event-Calendar
 ** simple JQuery and PHP bassed event calender 
+
+
+<https://user-images.githubusercontent.com/51922492/210256444-176387f6-4919-4bb8-8b02-9f5f1bc5d0aa.png>
+
 ## Installation 
 
 clone the repo
@@ -27,3 +31,4 @@ $event=[
         "url" => 'https://google.com' // link for a.href in event
     ],
 echo json_encode($event,true);
+```
